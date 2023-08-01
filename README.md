@@ -1,17 +1,19 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Peter</h1></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;JS%20|%20TS%20|%20NOBS%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
 </br>
 </br>
+
+<section>
+<div id="user-content-toc">
+  <ul align="center">  
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Peter</h1></summary>
+  </ul>
+</div>
+</section>
+
+<p align="center">
+  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;JS%20|%20TS%20|%20NOBS%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
 <!--- Introduction (start) -->
