@@ -40,7 +40,7 @@
 </br>  
   <div align="center">   
     <a href="https://github.com/pzajas">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true&background=0d1117](https://streak-stats.demolab.com?user=&theme=radical&hide_border=true&card_width=800&background=0D1117)(https://git.io/streak-stats)" alt="GitHub Streak" />      
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true&background=0d1117](https://streak-stats.demolab.com?user=&theme=radical&hide_border=true&card_width=1200&background=0D1117)(https://git.io/streak-stats)" alt="GitHub Streak" />      
     </a>
   </div>
 </section>
