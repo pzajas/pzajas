@@ -20,12 +20,12 @@
 </br>  
   <pre align="center">
 💻 I am a self-taught Frontend Developer lorem ipsum form
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📚 I have a Bachelors in Computer Science I am a self-taught Frontend Developer lorem ipsum form
 📝 I have a strong interest in new Frontend Technologies
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🔭 Working on I am a self-taught Frontend Developer lorem ipsum form
+🌱 Learning about I am a self-taught Frontend Developer lorem ipsum form
 🌟 Main languages: JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in I am a self-taught Frontend Developer lorem ipsum form
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="">MY RESUME.</a>
   </pre>
 </section>
