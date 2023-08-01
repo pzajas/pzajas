@@ -38,9 +38,9 @@
   <h2 align="center">📊 GitHub Stats 📊</h2>
 </br>  
   <div align="center">
-    <a href="https://github.com/pzajas">
+<!--     <a href="https://github.com/pzajas">
       <img src="https://github-readme-stats.vercel.app/api?username=pzajas&show_icons=true&theme=radical&hide_border=true&locale=en&bg_color=0d1117" alt="GitHub Stats" />
-    </a>
+    </a> -->
     <a href="https://github.com/pzajas">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </a>
