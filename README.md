@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;JS%20|%20TS%20|%20NOBS%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
@@ -17,18 +17,17 @@
 <!--- Introduction (start) -->
 <section>
   <h2 align="center">📜 Introduction 📜</h2>
-</br>  
   <pre align="center">
-💻 I am a self-taught Frontend Developer lorem ipsum form
-📚 I have a Bachelors in Computer Science I am a self-taught Frontend Developer lorem ipsum form
-📝 I have a strong interest in new Frontend Technologies
-🔭 Working on I am a self-taught Frontend Developer lorem ipsum form
-🌱 Learning about I am a self-taught Frontend Developer lorem ipsum form
-🌟 Main languages: JavaScript
-🚩 Interested in I am a self-taught Frontend Developer lorem ipsum form
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="">MY RESUME.</a>
+💻 I've independently honed skills in web and mobile app development.    
+📚 Passionate about exploring new Frontend Technologies and staying up-to-date.
+📝 Self-motivated; currently enhancing Frontend abilities through personal projects.
+🔭 Expertise: JavaScript, TypeScript, ReactJS, and React Native.
+🌱 Eager to contribute to exciting Frontend projects and collaborate with developers.
+🚩 Open to new opportunities, be it internship or job, to expand Frontend knowledge.
+🤔 Currently open for an Internship or new job opportunity. [My Resume](https://example.com/your-resume).
   </pre>
 </section>
+
 <!--- Introduction (end) -->
 
 </br>
@@ -61,14 +60,14 @@
     <a href="https://github.com/pzajas/native-wordle-app.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/pzajas/native-wordle-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+    <a href="https://github.com/pzajas/node-todo-api.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=node-todo-api&hide_border=true&theme=radical" alt="GitHub Stats" />
     </a>      
-      <a href="https://github.com/pzajas/native-wordle-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <a href="https://github.com/pzajas/react-memory-app.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-memory-app&hide_border=true&theme=radical" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/pzajas/native-wordle-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+    <a href="https://github.com/pzajas/react-currency-app.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-currency-app&hide_border=true&theme=radical" alt="GitHub Stats" />
     </a>  
   </p>
 </section>
