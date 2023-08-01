@@ -5,21 +5,21 @@
 
 <section>
 <div id="user-content-toc">
-  <ul align="center">  
+  <ul align="left">  
     <summary><h1 style="display: inline-block">Hi 👋, I'm Peter</h1></summary>
   </ul>
 </div>
 </section>
 
-<p align="center">
-  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;JS%20|%20TS%20|%20NOBS%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<p align="left">
+  <a href="https://github.com/pzajas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Thought+Developer+;Full+Stack+Web+Developer;JS%20|%20TS%20|%20NOBS%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&left=true&width=500&height=50"></a>
 </p>
 
 
 <!--- Introduction (start) -->
 <section>
-  <h2 align="center">📜 Introduction 📜</h2>
-  <pre align="center">
+  <h2 align="left">📜 Introduction 📜</h2>
+  <pre align="left">
 💻 I've independently honed skills in web and mobile app development.    
 📚 Passionate about exploring new Frontend Technologies and staying up-to-date.
 📝 Self-motivated; currently enhancing Frontend abilities through personal projects.
@@ -37,9 +37,9 @@
 
 <!--- GitHub Stats (start) -->
 <section>
-  <h2 align="center">📊 GitHub Stats 📊</h2>
+  <h2 align="left">📊 GitHub Stats 📊</h2>
 </br>  
-  <div align="center">   
+  <div align="left">   
     <a href="https://github.com/pzajas">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true&background=0d1117](https://streak-stats.demolab.com?user=&theme=radical&hide_border=true&card_width=800&background=0D1117)(https://git.io/streak-stats)" alt="GitHub Streak" />      
     </a>
@@ -53,9 +53,9 @@
 
 <!--- Pinned Projects (start) -->
 <section>
-  <h2 align="center">📌 Pinned Projects 📌</h2>
+  <h2 align="left">📌 Pinned Projects 📌</h2>
 </br>  
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/pzajas/native-wordle-app.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
     </a>
@@ -78,9 +78,9 @@
 
 <!--- Technology Stack (start) -->
 <section>
-  <h2 align="center">⚙️ Technology Stack ⚙️</h2>
+  <h2 align="left">⚙️ Technology Stack ⚙️</h2>
 </br>  
-  <p align="center"> 
+  <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -128,9 +128,9 @@
 
 <!--- Social Media Links (start) -->
 <section>
-  <h2 align="center">🔗 Social Media Links 🔗</h2>
+  <h2 align="left">🔗 Social Media Links 🔗</h2>
 </br>  
-  <p align="center">
+  <p align="left">
     <a href="https://www.twitter.com/pzajas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
     <a href="https://www.linkedin.com/in/pzajas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="https://www.instagram.com/pzajas/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
@@ -139,7 +139,7 @@
 </section>
 <!--- Social Media Links (end) -->
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/c/pzajas?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/pzajas"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
   <a href="https://twitter.com/pzajas"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pzajas?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
