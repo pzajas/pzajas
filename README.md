@@ -39,10 +39,10 @@
 </br>  
   <div align="center">
     <a href="https://github.com/pzajas">
-      <img src="https://github-readme-stats.vercel.app/api?username=pzajas&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pzajas&show_icons=true&theme=radical&hide_border=true&locale=en&bg_color=0d1117" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/pzajas">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pzajas&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
     </a>
   </div>
 </section>
@@ -58,16 +58,16 @@
 </br>  
   <p align="center">
     <a href="https://github.com/pzajas/native-wordle-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=native-wordle-app&hide_border=true&theme=radical&bg_color=0d1117" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/pzajas/node-todo-api.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=node-todo-api&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=node-todo-api&hide_border=true&theme=radical&bg_color=0d1117" alt="GitHub Stats" />
     </a>      
       <a href="https://github.com/pzajas/react-memory-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-memory-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-memory-app&hide_border=true&theme=radical&bg_color=0d1117" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/pzajas/react-currency-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-currency-app&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pzajas&repo=react-currency-app&hide_border=true&theme=radical&bg_color=0d1117" alt="GitHub Stats" />
     </a>  
   </p>
 </section>
